@@ -39,11 +39,9 @@ This project aims to analyze individuals' book reading habits based on demograph
 ## 📁 Klasör Yapısı | Project Structure
 
 read-patterns/
-├── data/ # Veri seti
-├── notebooks/ # Jupyter defterleri
-│ ├── 01_data_cleaning_and_eda.ipynb
-│ └── 02_exploratory_data_analysis.ipynb
-├── chart/ # Grafik görselleri
-├── requirements.txt # Bağımlılıklar
-├── main.py # Ana python dosyası (isteğe bağlı)
-└── README.md # Proje açıklaması
+├── README.md
+├── chart/
+│   ├── avg_books_by_gender.png
+│   ├── book_type_by_education.png
+│   ├── avg_books_by_income.png
+│   └── non_readers_profile_subplots.png
