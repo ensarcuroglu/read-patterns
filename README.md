@@ -23,16 +23,16 @@ This project aims to analyze individuals' book reading habits based on demograph
 ## 📊 Örnek Görselleştirmeler | Sample Visualizations
 
 ### 📌 Cinsiyete Göre Yıllık Ortalama Kitap Sayısı  
-![Cinsiyet](chart/avg_books_by_gender.png)
+![Cinsiyet](chart/average_books_by_gender.png)
 
 ### 📌 Eğitim Durumuna Göre Kitap Tercihi  
-![Eğitim](chart/book_type_by_education.png)
+![Eğitim](chart/book_format_preferences_by_education.png)
 
 ### 📌 Gelir Düzeyine Göre Okuma  
-![Gelir](chart/avg_books_by_income.png)
+![Gelir](chart/average_books_by_gender.png)
 
 ### 📌 Kitap Okumayanların Profili  
-![Non-Readers](chart/non_readers_profile_subplots.png)
+![Non-Readers](chart/non_readers_profile_final_cleaned.png)
 
 ---
 
