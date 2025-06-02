@@ -95,3 +95,30 @@ read-patterns/
 - Kitap okumayan bireyler genellikle erkek, tam zamanlı çalışan, daha düşük eğitim seviyesine sahip ve ileri yaşlardadır.
 
 ---
+
+## 🚀 Kurulum ve Kullanım | Setup & Usage
+
+### 🔄 Reposityoyu Klonlayın | Clone the Repository
+
+```bash
+git clone https://github.com/kullaniciadi/read-patterns.git
+cd read-patterns
+🐍 Sanal Ortam Oluşturun (Opsiyonel) | Create Virtual Environment (Optional)
+bash
+Kopyala
+Düzenle
+python -m venv .venv
+source .venv/bin/activate   # macOS/Linux
+.venv\Scripts\activate      # Windows
+📦 Gerekli Paketleri Yükleyin | Install Required Packages
+bash
+Kopyala
+Düzenle
+pip install -r requirements.txt
+📓 Jupyter Notebook'u Başlatın | Start Jupyter Notebook
+bash
+Kopyala
+Düzenle
+jupyter notebook
+notebooks/01_data_cleaning_and_eda.ipynb ve 02_exploratory_data_analysis.ipynb dosyalarını adım adım takip ederek projeyi çalıştırabilirsiniz.
+You can follow the notebook files step-by-step to reproduce the analysis.
